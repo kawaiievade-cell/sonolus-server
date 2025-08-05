@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "title": "أغلى من الياقوت",
+    "artist": "أحمد مكي",
+    "author": "جنى",
+    "preview": "audio.mp3",
+    "audio": "audio.mp3",
+    "background": "",
+    "cover": "",
+    "difficulty": [
+        {
+            "name": "Hard",
+            "rating": 8,
+            "chart": "chart.json"
+        }
+    ]
+}

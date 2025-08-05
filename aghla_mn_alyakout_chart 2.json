@@ -1,0 +1,34 @@
+{
+    "version": 1,
+    "title": "أغلى من الياقوت",
+    "artist": "أحمد مكي",
+    "bpm": 83,
+    "offset": 0,
+    "previewStart": 10,
+    "difficulty": "Normal",
+    "level": 6,
+    "notes": [
+        {
+            "type": "tap",
+            "time": 1.0,
+            "position": 2
+        },
+        {
+            "type": "tap",
+            "time": 2.5,
+            "position": 4
+        },
+        {
+            "type": "hold",
+            "time": 4.0,
+            "endTime": 6.0,
+            "position": 1
+        },
+        {
+            "type": "flick",
+            "time": 7.0,
+            "position": 3
+        }
+    ],
+    "createdAt": "2025-08-05T21:40:42.452406"
+}
